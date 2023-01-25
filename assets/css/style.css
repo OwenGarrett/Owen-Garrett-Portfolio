@@ -10,7 +10,7 @@ body {
 header {
   padding: 40px;
   text-align: center;
-  background: #13293d;
+  background: #06ddecbb;
   color: #fff;
 }
 
@@ -20,7 +20,7 @@ The flex container becomes flexible
 */
 nav {
   display: flex;
-  background-color: #d8a47f;
+  background-color: #ec08a8c5;
 }
 
 nav a {
